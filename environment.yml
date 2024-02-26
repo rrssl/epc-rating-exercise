@@ -1,0 +1,19 @@
+name: mortar
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - ipython
+  - ipywidgets
+  - joblib
+  - jupyterlab
+  - jupytext
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - shap
+  - xgboost
+prefix: /home/robin/miniconda3/envs/mortar
